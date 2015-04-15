@@ -16,6 +16,7 @@ int main(void) {
 		{
 			cout << "Hello World\n";
 		}
+		#pragma omp barrier
 	}
 	return 0;
 }

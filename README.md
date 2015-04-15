@@ -1,0 +1,1 @@
+Repository in cui verranno inseriti esempi di utilizzo di OpenMP
